@@ -1,0 +1,70 @@
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfoInputs.cache
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfo.cs
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.CoreCompileInputs.cache
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cache
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cs
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.deps.json
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.json
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.dev.json
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorTargetAssemblyInfo.cache
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\A0H81088\Desktop\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.genruntimeconfig.cache
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.deps.json
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.json
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.dev.json
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfoInputs.cache
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfo.cs
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cache
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cs
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorTargetAssemblyInfo.cache
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\Armando\Google Drive\Armando\CETYS\Proyecto Hutchinson\Ejemplo Auth\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.genruntimeconfig.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.deps.json
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.json
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.dev.json
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.AssemblyReference.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfoInputs.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfo.cs
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.CoreCompileInputs.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cs
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorTargetAssemblyInfo.cache
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.dll
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.pdb
+C:\Users\Sayuri Ramos\Desktop\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.genruntimeconfig.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.AssemblyReference.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfoInputs.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.AssemblyInfo.cs
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.csproj.CoreCompileInputs.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorAssemblyInfo.cs
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.dll
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.pdb
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\appsettings.json
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.deps.json
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.json
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.runtimeconfig.dev.json
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.dll
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\bin\Debug\netcoreapp2.1\AuthApiExample.pdb
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.RazorTargetAssemblyInfo.cache
+D:\LEMM\diseno_software\Hutchinson\AuthApiExample\AuthApiExample\obj\Debug\netcoreapp2.1\AuthApiExample.genruntimeconfig.cache
