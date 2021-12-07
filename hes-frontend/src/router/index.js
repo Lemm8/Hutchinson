@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 import IdeasMejora from "../views/IdeasMejora.vue";
 import qrqc_system from "../views/qrqc_system.vue"
 import auditorias from "../views/Auditorias.vue"
+import auditores from "../views/Auditores.vue"
 import policy_dev from "../views/policy_dev.vue"
 import sistema_6s from "../views/sistema_6s.vue"
 import proyectos_mejora from "../views/proyectos_mejora.vue"
@@ -52,6 +53,12 @@ const routes = [
     path: "/auditorias",
     name: "auditorias",
     component: auditorias,
+    meta: { auth: true }
+  },  
+  {
+    path: "/auditores",
+    name: "auditores",
+    component: auditores,
     meta: { auth: true }
   },  
   {
